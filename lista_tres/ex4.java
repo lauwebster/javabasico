@@ -61,7 +61,7 @@ public class ex4 {
             System.out.print("Vetor de Impares: ");
             for(int i=0; i < h; i++){
                 num = vetorI[i];
-                System.out.print("["+num+"]");
+                System.out.print("["+num+"]");!
             }
             System.out.println();
         }
