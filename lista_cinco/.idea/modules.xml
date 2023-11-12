@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lista_cinco.iml" filepath="$PROJECT_DIR$/lista_cinco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_ex_2_elevador/poo_ex_2_elevador.iml" filepath="$PROJECT_DIR$/poo_ex_2_elevador/poo_ex_2_elevador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_ex_3_calculadora/poo_ex_3_calculadora.iml" filepath="$PROJECT_DIR$/poo_ex_3_calculadora/poo_ex_3_calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_ex_4_bingo/poo_ex_4_bingo.iml" filepath="$PROJECT_DIR$/poo_ex_4_bingo/poo_ex_4_bingo.iml" />
+    </modules>
+  </component>
+</project>

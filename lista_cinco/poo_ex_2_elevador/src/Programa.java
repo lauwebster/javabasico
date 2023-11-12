@@ -34,7 +34,7 @@ public class Programa{
                     A.sair();
                     break;
             }
-            //sai lido
+
             System.out.println("Seleciona sua opção: ");
             System.out.println("A - Entrar no elevador");
             System.out.println("B - Subir um andar");
